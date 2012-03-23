@@ -1,0 +1,2 @@
+Simple infrared remote control sending interface. At the minute it doesn't
+support any specific protocol, just raw timings of ON/OFF pulses.
